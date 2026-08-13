@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+
+# Exclude accidential program files
+*.exe
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
