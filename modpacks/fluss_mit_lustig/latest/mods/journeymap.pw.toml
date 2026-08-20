@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-fabric-1.20.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/hk3YW8ZE/journeymap-fabric-1.20.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "d99680359852858c3df245e29c83b7840d5d3d1fbe533e3d78c2b44c3d8a6ef7938862e53768d8fee014b3e65a6cc7c7e8fcc10f7866b664827ab69bb5efb7fc"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "hk3YW8ZE"

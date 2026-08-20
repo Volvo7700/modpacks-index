@@ -1,0 +1,13 @@
+name = "Fluss mit Lustig"
+author = "UV7 / Volvo7700"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7b8b1c178557b774dceba80573429ea6d0ccd3048791970c03d2d4d8769e31dc"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"

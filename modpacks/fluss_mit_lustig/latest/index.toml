@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/classic-minecraft-icon.pw.toml"
+hash = "32dc5b59d3ff46e1f97b86a047319e065be4935d82d4a8de828bfcd8b6905752"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "2f1743f316487b9ffb9bd2323c0b6542dba1c5231479095bfa2296624738155f"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "7a2f11b7d5574ba34993d279c2ddd0866451de9524edf9fa232b8e9c27b57458"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "5c4d498c1cf5993c5452c2a0338b1e813589ff235ac329d40974c6f9dbbdf3d7"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
+metafile = true
+
+[[files]]
+file = "mods/curvebuilding.pw.toml"
+hash = "835d3e607542f336645ea7f772c9e103afa92eba7810d910a57964a5ca917ebc"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "cacada9983f62859211369ec3eef4e351057de9eb1803520110998ca558b681a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "d02f8f8da843ad46aa1dfa9967d8fbcfd363d9b0240aec31366ed390122ee369"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+metafile = true
+
+[[files]]
+file = "mods/fastboot.pw.toml"
+hash = "ed29698f8fe776f73fdb5e3ecf5ad77e2079f4d044adb0a04ee6d7df46ae9fbe"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "eea3d946b8012e62880132ec514d56b909c603b2c17a0e9e8adfbaa19f5fb617"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "df0b76d1258f7f7b4c702c005b5b5c9a85c9943457cdbf27825a5ff576e67516"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "4dd885a9ca3f9a3f20ff2b13d4e4cf04dee51e364b09c4996fcfe0c63a84ccd1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "810c63c5de675c9cb2f29c4e63231ae4d35d83f906d3279ac5c7a83132fe387c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "22c02ada89e65c16cfce0a4c69f05e9dd56a085cbd4e4160ec57cdc4d78385b8"
+metafile = true
