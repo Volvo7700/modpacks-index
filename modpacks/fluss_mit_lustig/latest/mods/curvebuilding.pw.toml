@@ -1,6 +1,6 @@
 name = "CurveBuilding"
 filename = "curvebuilding-fabric-0.5.0+1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

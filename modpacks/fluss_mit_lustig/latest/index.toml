@@ -36,8 +36,13 @@ hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map-(unofficial-fork).pw.toml"
+hash = "e601cb79e15f399fdae5e9a2ec48983a3248a7d3bf4fc2a25a83bb0847b98f75"
+metafile = true
+
+[[files]]
 file = "mods/curvebuilding.pw.toml"
-hash = "835d3e607542f336645ea7f772c9e103afa92eba7810d910a57964a5ca917ebc"
+hash = "a2f887d54682263c0014c5aee4508dea6753af365e12dcaefc82ceed20daff46"
 metafile = true
 
 [[files]]
